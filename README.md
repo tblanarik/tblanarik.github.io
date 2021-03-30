@@ -1,16 +1,16 @@
 ## Experience
 
 ### Microsoft
-- **Senior Software Engineer** *Azure Experimentation Platform*
-    - Developing Microsoft's A/B testing platform
+**Senior Software Engineer** *Azure Experimentation Platform*
+- Developing Microsoft's A/B testing platform
 
 ### Boeing Product Development
-- **Senior Software Engineer** *Scripted Process Engineering*
-    - Improving carbon fiber manufacturing on commercial airplanes
+**Senior Software Engineer** *Scripted Process Engineering*
+- Improving carbon fiber manufacturing on commercial airplanes
 
 ### Boeing Research & Technology
-- **Software Engineer** *Modeling & Simulation*
-    - Solving routing and path-planning problems across the enterprise 
+**Software Engineer** *Modeling & Simulation*
+- Solving routing and path-planning problems across the enterprise
 
 ## Patents / Publications
 - [Diagnosing Sample Ratio Mismatch in A/B Testing](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/diagnosing-sample-ratio-mismatch-in-a-b-testing/)
