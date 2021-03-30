@@ -19,10 +19,15 @@
 
 # Education
 ## University of Washington 
- - [Master of Industrial & Systems Engineering](https://ise.washington.edu/students/MISE) - 2017
+ - [Master of Industrial & Systems Engineering](https://ise.washington.edu/students/MISE)
 
 ## Rochester Institute of Technology 
-- [Bachelor Computer Science](https://www.rit.edu/computing/department-computer-science) - 2009
+- [Bachelor Computer Science](https://www.rit.edu/computing/department-computer-science)
 
 # Technologies
 ![C#](csharp_logo.png) ![python](python_logo.png) ![azure](azure_logo.png)
+
+# Links
+- *[Full Resume (PDF)](./TrevorBlanarik_Resume_20210201.pdf)*
+- [LinkedIn](https://www.linkedin.com/in/trevor-blanarik/)
+- [GitHub](https://github.com/tblanarik)
