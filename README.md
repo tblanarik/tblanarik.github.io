@@ -22,7 +22,7 @@
 - [Bachelor Computer Science](https://www.rit.edu/computing/department-computer-science)
 
 # Technologies
-![C#](csharp_logo.png) ![python](python_logo.png) ![azure](azure_logo.png)
+![C#](csharp_logo.png) ![typescript](typescript_logo.png) ![python](python_logo.png) ![azure](azure_logo.png)
 
 # Links
 - [Full Resume (PDF)](./TrevorBlanarik_Resume_20210201.pdf)
