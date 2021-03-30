@@ -1,19 +1,19 @@
 # Experience
 
 ## Microsoft
-- **Senior Software Engineer** | *Azure Experimentation Platform*
+- **Senior Software Engineer** *Azure Experimentation Platform*
     - Developing Microsoft's A/B testing platform
 
 ## Boeing Product Development
-- **Senior Software Engineer** | *Scripted Process Engineering*
+- **Senior Software Engineer** *Scripted Process Engineering*
     - Improving carbon fiber manufacturing on commercial airplanes
 
 ## Boeing Research & Technology
-- **Software Engineer** | *Modeling & Simulation*
+- **Software Engineer** *Modeling & Simulation*
     - Solving routing and path-planning problems across the enterprise 
 
 # Patents / Publications
-- [Diagnosing Sample Ratio Mismatch in A/B Testing | Microsoft Researh Blog](https://aka.ms/exp/DiagnosingSRM)
+- [Diagnosing Sample Ratio Mismatch in A/B Testing - Microsoft Researh Blog](https://aka.ms/exp/DiagnosingSRM)
 - [US Patent US9157746B2 - Vessel routing system](https://patents.google.com/patent/US9157746B2/en)
 - [US Patent US10279928B2 - Delta offset based surface modeling](https://patents.google.com/patent/US10279928B2/en) 
 
