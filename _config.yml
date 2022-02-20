@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Trevor Blanarik
+title: Growth and A/B Testing
 email: trevor@trevorblanarik.com
 description: >- # this means to ignore newlines until "baseurl:"
   Posts about A/B testing, experimentation, Growth, etc
