@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
   - jemoji
 
-google_analytics: G-BBE7BY9527
+google_analytics: UA-221053929-1
 show_excerpts: true
 
 minima:
