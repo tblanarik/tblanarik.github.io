@@ -13,8 +13,8 @@ Something that really struck me was:
 
 He goes on to talk about how Ari Sheinkin pushed for, among other things, having the marketing team run 30 experiments in 30 days. The eventual cultural shift resulted in IBM runnig over 2800 experiments in 2018. 
 
-What's not clear to me is how IBM made sure the experiments still met a minimum quality bar. Were the experiments conceptually simple? 
+What's not clear to me is how IBM made sure the experiments still met a minimum quality bar. Were the experiments just conceptually simple? 
 Or did the center of excellence Sheinkin set up provide enormous amounts of support? 
 It's not hard to end up with [unhealthy metrics](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/p-values-for-your-p-values-validating-metric-trustworthiness-by-simulated-a-a-tests/), for instance.
 
-Maybe the answer is in taking the time to set up all of the 
+Maybe the answer is in taking the time to set up all of the automated checks to catch most of the common issues (A/A tests, SRM checks, etc). Regardless, I like the idea of setting really aggressive goals on experiment count alone just to build the muscle.
