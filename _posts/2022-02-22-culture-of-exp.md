@@ -17,4 +17,6 @@ What's not clear to me is how IBM made sure the experiments still met a minimum 
 Or did the center of excellence Sheinkin set up provide enormous amounts of support? 
 It's not hard to end up with [unhealthy metrics](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/p-values-for-your-p-values-validating-metric-trustworthiness-by-simulated-a-a-tests/), for instance.
 
-Maybe the answer is in taking the time to set up all of the automated checks to catch most of the common issues (A/A tests, SRM checks, etc). Regardless, I like the idea of setting really aggressive goals on experiment count alone just to build the muscle.
+It's natural to want to gatekeep experimentation to make sure it's done right, but now I'mm wondering if that's just part of a vicious cycle of making experimentation harder, more expensive, and less successful.
+
+Maybe the answer is in actually taking the time to set up all of the automated checks to catch most of the common issues (A/A tests, SRM checks, etc). Regardless, I like the idea of setting really aggressive goals on experiment count alone just to build the muscle.
