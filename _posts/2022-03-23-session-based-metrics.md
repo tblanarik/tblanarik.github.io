@@ -16,7 +16,8 @@ One example a former co-worker gave was, which I've kept handy was:
 > 
 > The average click rate [by suggestion] is 6÷27 ~ 22.2%
 Each of John's 5 sessions had a click rate of 20%. Trevor's 1 session had a click rate of 50%. The average click rate [by session] is 25%.
-John's click rate was 20%. Trevor's was 50%. The average click rate [by user] is 35%.
+>
+> John's click rate was 20%. Trevor's was 50%. The average click rate [by user] is 35%.
 
 The warning being:
 > User-level metrics treat all your users equally. Each person contributes 1 number to the average. Session-level metrics treat each session equally. **More-active people contribute more to the average**.
