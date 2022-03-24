@@ -7,7 +7,7 @@ categories: metrics
 
 Georgi Georgiev's post [When Session-Based Metrics Lie](https://blog.analytics-toolkit.com/2022/when-session-based-metrics-mislead/) has some great examples showing how session-based metrics can lead you to wrong conclusions.
 
-One example a former co-worker gave was, which I've kept handy was:
+One example a former co-worker gave was:
 
 > Our product has 2 users, John and Trevor. John (a very active user) has 5 sessions and Trevor (a less active user) has 1. 
 > Each of John's sessions has 5 prompts shown and he clicks 1 of them, each of Trevor's has 2 and he clicks 1 of them.
